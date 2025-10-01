@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1759304328 source:c:\users\pacob\onedrive\desktop\primercuatrimestre\m-programacion\t1-poo\proyecto0\proyect0.2\src\complejo2.cpp
+	"complejo2.h"
+	<iostream>
+	<string>
+
+1759304874 c:\users\pacob\onedrive\desktop\primercuatrimestre\m-programacion\t1-poo\proyecto0\proyect0.2\include\complejo2.h
+	<string>
+	<iostream>
+
+1759302615 source:c:\users\pacob\onedrive\desktop\primercuatrimestre\m-programacion\t1-poo\proyecto0\proyect0.2\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	"complejo2.h"
+
